@@ -1,5 +1,5 @@
 // ignore_for_file: non_constant_identifier_names
-part of '../uicons_pro.dart';
+part of '../uicons.dart';
 
 /// Brands Icons.
 class Brands {

@@ -8,7 +8,7 @@ part 'src/brands_icons.dart';
 
 /// Base class to get a reference of the icon and icon style.
 /// ```
-/// Icon(UIconsPro.regularRounded.home)
+/// Icon(UIcons.regularRounded.home)
 /// ```
 class UIcons {
   UIcons._();
