@@ -1,4 +1,4 @@
-library uicons_pro;
+library uicons;
 import 'package:flutter/widgets.dart';
 part 'src/regular_rounded_icons.dart';
 part 'src/bold_rounded_icons.dart';
@@ -10,8 +10,8 @@ part 'src/brands_icons.dart';
 /// ```
 /// Icon(UIconsPro.regularRounded.home)
 /// ```
-class UIconsPro {
-  UIconsPro._();
+class UIcons {
+  UIcons._();
 
   static RegularRounded get regularRounded => RegularRounded._();
   static BoldRounded get boldRounded => BoldRounded._();
