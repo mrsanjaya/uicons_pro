@@ -2,7 +2,7 @@
 
 ## Descripción
 
-`uicons_pro` ofrece una elegante colección de iconos diseñados con precisión para realzar la estética de tus aplicaciones Flutter. Cada icono ha sido meticulosamente creado para ofrecer una apariencia moderna y sofisticada, perfecta para cualquier proyecto. ¡Transforma tu UI con estos impresionantes iconos y dale a tus aplicaciones un toque profesional!
+`uicons` ofrece una elegante colección de iconos diseñados con precisión para realzar la estética de tus aplicaciones Flutter. Cada icono ha sido meticulosamente creado para ofrecer una apariencia moderna y sofisticada, perfecta para cualquier proyecto. ¡Transforma tu UI con estos impresionantes iconos y dale a tus aplicaciones un toque profesional!
 
 ![UIcons](https://github.com/user-attachments/assets/5d68a381-5599-4790-88c0-9b6a4f250675)
 
@@ -26,7 +26,7 @@ Icon(UIconsPro.brands.google);
 ## Uso
 
 ```
-import 'package:uicons_pro/uicons_pro.dart'; 
+import 'package:uicons/uicons.dart'; 
 
 class Home extends StatelessWidget {
   const Home({super.key});
@@ -40,13 +40,13 @@ class Home extends StatelessWidget {
 
 ## Instalación
 
-Para usar `uicons_pro` en tu proyecto Flutter, agrégalo a tu archivo `pubspec.yaml`:
+Para usar `uicons` en tu proyecto Flutter, agrégalo a tu archivo `pubspec.yaml`:
 
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
-  uicons_pro: ^1.1.0  # Reemplaza con la última versión
+  uicons: ^1.1.0  # Reemplaza con la última versión
 ```
 ## Atribución
 
